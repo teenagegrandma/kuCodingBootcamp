@@ -1,0 +1,2 @@
+# kuCodingBootcamp
+example for class
